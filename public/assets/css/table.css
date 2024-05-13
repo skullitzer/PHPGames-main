@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100vh;
+    background: url('img2.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.wrapper {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    background: transparent;
+    border: 2px solid black;
+    color: black;
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 50px 0;
+  }
+  
